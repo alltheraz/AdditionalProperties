@@ -1,0 +1,14 @@
+{
+"name": "additionalproperties", 
+"title": "Additional Properties",
+"description": "Adds properties",
+"version": "0.1", 
+"author": "alltheraz", 
+"systems": ["dnd5e"], 
+"styles": [], 
+"scripts": ["additionalProperties.js"], 
+"manifest": "https://raw.githubusercontent.com/alltheraz/AdditionalProperties/main/module.json", 
+"download": "https://github.com/alltheraz/AdditionalProperties/archive/main.zip", 
+"minimumCoreVersion": "0.9.0", 
+"compatibleCoreVersion": "0.9.0" 
+}
